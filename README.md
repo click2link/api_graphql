@@ -1,3 +1,3 @@
-# backend_ventas_api 
+# Graphql API
 
 Django + Graphene.
